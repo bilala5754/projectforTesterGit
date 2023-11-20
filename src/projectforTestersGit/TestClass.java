@@ -6,7 +6,7 @@ public class TestClass {
 		
 		System.out.println("This is a project for get");
 		System.out.println("Put it in staging");
-		
+		System.out.println("This is another change");
 		
 		
 		
